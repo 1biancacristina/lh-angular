@@ -1,0 +1,52 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor Front-End",
+      "foto": "foto1.jpg",
+      "descricao": "trabalhar com DBA",
+      "salario": 10000,
+      "requisitosObrigatorios": "Saber Banco de dados",
+      "requisitosDesejaveis": "Ingles",
+      "beneficios": "Vt e Vr",
+      "localDeTrabalho": "Praça da Se",
+      "status": 0
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvedor Full Stack",
+      "foto": "foto2.jpg",
+      "descricao": "trabalhar com angular spring",
+      "salario": 50000,
+      "requisitosObrigatorios": "Saber Banco de dados",
+      "requisitosDesejaveis": "Ingles",
+      "beneficios": "Vt e Vr",
+      "localDeTrabalho": "Praça da Se",
+      "status": 0
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvedor Back-End",
+      "foto": "foto3.jpg",
+      "descricao": "trabalhar com Oracle",
+      "salario": 7000,
+      "requisitosObrigatorios": "Saber Banco de dados",
+      "requisitosDesejaveis": "Ingles",
+      "beneficios": "Vt e Vr",
+      "localDeTrabalho": "Praça da Se",
+      "status": 0
+    },
+    {
+      "id": "50",
+      "nome": "Analista Pleno",
+      "foto": "foto2.jpg",
+      "descricao": "Fazer tudo",
+      "salario": "10000",
+      "requisitosObrigatorios": "Ingles",
+      "requisitosDesejaveis": "Espanhol",
+      "beneficios": "VT VR",
+      "localDeTrabalho": "",
+      "status": 0
+    }
+  ]
+}

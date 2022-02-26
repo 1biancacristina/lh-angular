@@ -1,0 +1,17 @@
+.lista-vagas{
+    display: flex;
+    flex-direction: row;
+    background-color:dimgrey;
+
+}
+
+.lista-vagas .card{
+    margin: 10px 10px 15px 10px;
+    min-height: 500px;
+    max-height: 700px;
+}
+
+.card{
+    background-color:lightgray;
+}
+

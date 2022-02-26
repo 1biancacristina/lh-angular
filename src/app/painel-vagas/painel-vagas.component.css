@@ -1,0 +1,45 @@
+#titulo{
+    font-family: fantasy;
+    color:darkmagenta;
+    margin-left: 7%;
+    margin:20px;
+  }
+.header_formulario{
+  background-color:dimgrey;
+  height: 80vh;
+}
+form{
+
+  font-size:15px;
+  justify-content: center;
+  width: 30vw;
+  height:  auto;
+  background-color:azure;
+  margin:auto;
+  border-radius: 10px;
+  text-align:justify;
+  padding: 20px 30px 40px 50px;
+  
+}
+
+input,select,button, textarea{
+  border-radius: 5px;
+}
+
+.campo{
+  margin-bottom: 50em;
+}
+
+label{
+margin: 10px;}
+input[type="text"],input[type="number"]{
+  padding: 0.2em;
+  border:1px solid #62707b;
+  box-shadow: 2px 2px 2px rgb(0,0,0,0.2);
+
+}
+ input:focus{
+  background:silver;
+}
+
+

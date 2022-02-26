@@ -1,0 +1,36 @@
+
+h1, h2, h3,ul ,li , p, span{
+  font-family:fantasy;
+  
+}
+
+.list{
+color:lightgoldenrodyellow;
+}
+
+
+a{
+text-decoration: none;
+color:darkslategray;
+}
+
+.header__content {
+background: linear-gradient(50deg, #eceaf0, #a29ca3);
+}
+
+
+.lista{
+  display: flex;
+  gap: 5rem;
+}
+
+.lista item-lista{
+    font-size:200px;
+    list-style-type: none;
+    font-weight: bold;
+
+  }
+
+ .item-lista:hover{
+    background-color: beige;
+}
